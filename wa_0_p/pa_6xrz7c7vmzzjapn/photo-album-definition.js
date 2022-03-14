@@ -1,0 +1,86 @@
+{
+"global_config":{
+"gallery_type":0,
+"diaporama_time":3,
+"transition_effect":100,
+"max_image_resolution":800,
+"random_diaporama":0,
+"show_diaporama_button":0,
+"show_comment":1,
+"has_fullscreen_thumbnail_mode":1,
+"inner_slideshow_image_margin":0,
+"open_popup_when_clicking":0,
+"type_display_page_navigator":1,
+"display_nav_arrows":1,
+"always_display_nav_elements":0,
+"comment_display_ImageNumber":0,
+"fit_image_to_slideshow":1}
+,"normal_config":{
+"has_shadow":false,
+"rows":1,
+"cols":2,
+"image_size":170,
+"image_spacing":33,
+"nb_images_per_page":2,
+"margin_left":4,
+"margin_top":22}
+,
+"fullscreen_list_config":{
+"image_size":110}
+,"images":[{"fn":"tuto_20LTC0.png",
+"mod_th":"7bdxa82ul7lyxr",
+"mod":"7bdx7c2ul7lyxr",
+"size":{"w":800,"h":642},
+"comment":"",
+"tooltip":"",
+"lnk":{ "js" : "", "open" : -1, "type" : 0, "url" : "" }}
+,{"fn":"tuto_20LTC_202.png",
+"mod_th":"7bdxkg2ul7lyxr",
+"mod":"7bdxhk2ul7lyxr",
+"size":{"w":800,"h":608},
+"comment":"",
+"tooltip":"",
+"lnk":{ "js" : "", "open" : -1, "type" : 0, "url" : "" }}
+,{"fn":"tuto_20LTC_203.png",
+"mod_th":"7bdxuo2ul7lyxr",
+"mod":"7bdxrs2ul7lyxr",
+"size":{"w":800,"h":560},
+"comment":"",
+"tooltip":"",
+"lnk":{ "js" : "", "open" : -1, "type" : 0, "url" : "" }}
+,{"fn":"tuto_20LTC_204.png",
+"mod_th":"7bdy4w2ul7lyxr",
+"mod":"7bdy202ul7lyxr",
+"size":{"w":800,"h":569},
+"comment":"",
+"tooltip":"",
+"lnk":{ "js" : "", "open" : -1, "type" : 0, "url" : "" }}
+,{"fn":"tuto_20LTC_205.png",
+"mod_th":"7bdyf42ul7lyxr",
+"mod":"7bdyc82ul7lyxr",
+"size":{"w":800,"h":572},
+"comment":"",
+"tooltip":"",
+"lnk":{ "js" : "", "open" : -1, "type" : 0, "url" : "" }}
+,{"fn":"tuto_20LTC_206.png",
+"mod_th":"7bdypc2ul7lyxr",
+"mod":"7bdymg2ul7lyxr",
+"size":{"w":800,"h":592},
+"comment":"",
+"tooltip":"",
+"lnk":{ "js" : "", "open" : -1, "type" : 0, "url" : "" }}
+,{"fn":"tuto_20LTC_207.png",
+"mod_th":"7bdyzk2ul7lyxr",
+"mod":"7bdywo2ul7lyxr",
+"size":{"w":800,"h":608},
+"comment":"",
+"tooltip":"",
+"lnk":{ "js" : "", "open" : -1, "type" : 0, "url" : "" }}
+,{"fn":"tuto_20LTC_208.png",
+"mod_th":"7bdz9s2ul7lyxr",
+"mod":"7bdz6w2ul7lyxr",
+"size":{"w":800,"h":565},
+"comment":"",
+"tooltip":"",
+"lnk":{ "js" : "", "open" : -1, "type" : 0, "url" : "" }}
+]}
